@@ -1,5 +1,23 @@
+# Search user on github and get some report about thier repositories with login and signup feature
+Front end: react and FusionCharts \
+login and sign up: Auth0 \
+Demo: https://react-search-github-by-nghia-dang.netlify.app/login
+
+
+
+
+
+
+https://user-images.githubusercontent.com/33323750/182069360-8d9c8b73-80dc-41a4-9ddd-236271ea9ff9.mp4
+
+
+
+
+
+
+
 # Getting Started with Create React App
-In this project I make a website search 
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
